@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://ie2020.kisim.eu.org/api/';
