@@ -1,0 +1,102 @@
+{
+    "name1": {
+        "name": "Modelling of Physical Systems",
+        "localization": "localization1"
+    },
+    "name2": {
+        "name": "Statistics for Intelligent Systems",
+        "localization": "localization2"
+    },
+    "name3": {
+        "name": "Model Checking",
+        "localization": "localization1"
+    },
+    "name4": {
+        "name": "Philosophy and New Media",
+        "localization": "localization3"
+    },
+    "name5": {
+        "name": "Global Society & International Institutions",
+        "localization": "localization3"
+    },
+    "name6": {
+        "name": "Formal Methods",
+        "localization": "localization1"
+    },
+    "name7": {
+        "name": "Artificial Intelligence",
+        "localization": "localization4"
+    },
+    "name8": {
+        "name": "Computational Intelligence",
+        "localization": "localization2"
+    },
+    "name9": {
+        "name": "Advanced Data Mining",
+        "localization": "localization3"
+    },
+    "name10": {
+        "name": "Advanced Python Programming",
+        "localization": "localization1"
+    },
+    "name11": {
+        "name": "Agent Systems",
+        "localization": "localization4"
+    },
+    "name12": {
+        "name": "Evolutionary Algorithms",
+        "localization": "localization4"
+    },
+    "name13": {
+        "name": "Advanced Algorithms and Data Structures",
+        "localization": "localization2"
+    },
+    "name14": {
+        "name": "Decision Support Systems",
+        "localization": "localization4"
+    },
+    "name15": {
+        "name": "Advanced Computational Intelligence",
+        "localization": "localization1"
+    },
+    "name16": {
+        "name": "Introduction to category theory",
+        "localization": "localization2"
+    },
+    "name17": {
+        "name": "Advanced Database Systems",
+        "localization": "localization4"
+    },
+    "name18": {
+        "name": "Linked Open Data and Knowledge Graphs",
+        "localization": "localization3"
+    },
+    "name19": {
+        "name": "Process Mining",
+        "localization": "localization4"
+    },
+    "name20": {
+        "name": "Programming Language Theory",
+        "localization": "localization2"
+    },
+    "name21": {
+        "name": "Advanced Machine Learning",
+        "localization": "localization1"
+    },
+    "name22": {
+        "name": "Cybersecurity",
+        "localization": "localization1"
+    },
+    "name23": {
+        "name": "Advanced Methods in Image Understanding",
+        "localization": "localization2"
+    },
+    "name24": {
+        "name": "Combinatorics in Computer Science",
+        "localization": "localization4"
+    },
+    "name25": {
+        "name": "Programming of PLC-s",
+        "localization": "localization2"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "localization1": {
+        "name": "Building A4 / 212",
+        "localization": {
+            "lat": 50.065172,
+            "lng": 19.919888
+        }
+    },
+    "localization2": {
+        "name": "Building B4 / 212",
+        "localization": {
+            "lat": 50.0664291432419,
+            "lng": 19.917706411140493
+        }
+    },
+    "localization3": {
+        "name": "Building B5 / 315",
+        "localization": {
+            "lat": 50.067067039359465,
+            "lng": 19.916806309802976
+        }
+    },
+    "localization4": {
+        "name": "Building C1 / 216",
+        "localization": {
+            "lat": 50.06599805117568,
+            "lng": 19.922341864212058
+        }
+    }
+}

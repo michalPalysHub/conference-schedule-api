@@ -1,0 +1,296 @@
+[
+    {
+        "id": "ba817a22-c515-47c4-a393-a93d75c17480",
+        "title": "The Impact of AI in Accounting Field",
+        "session": "name1",
+        "date": "23-05-2022T7:30",
+        "filename": ""
+    },
+    {
+        "id": "7d0ac33c-fa1c-4e40-bbcd-540d75f00efc",
+        "title": "Regression Models To Predict Air Pollution",
+        "session": "name1",
+        "date": "23-05-2022T7:45",
+        "filename": ""
+    },
+    {
+        "id": "cd8bc774-1ba3-4cd5-8aae-c6729236ffd9",
+        "title": "Research Aimed At Studying Black Matter",
+        "session": "name2",
+        "date": "23-05-2022T8:00",
+        "filename": ""
+    },
+    {
+        "id": "1cc6dc07-d705-4b8e-86b1-01242b982250",
+        "title": "My Interest And My Aim In Mechanical Engineering",
+        "session": "name3",
+        "date": "23-05-2022T9:30",
+        "filename": ""
+    },
+    {
+        "id": "f1a5a783-275d-42a5-a969-d9b86ff5d719",
+        "title": "Recent Developments In Airbags For Passenger Safety In Automobile",
+        "session": "name3",
+        "date": "23-05-2022T10:30",
+        "filename": ""
+    },
+    {
+        "id": "5649e21d-5bad-43b9-83a0-cadb8f1da198",
+        "title": "The Wonders Of AI In Genetics And Genomic Data",
+        "session": "name4",
+        "date": "23-05-2022T12:30",
+        "filename": ""
+    },
+    {
+        "id": "2c1eafa6-025a-40ca-a834-edacebff94b4",
+        "title": "Science And The Cinema: From Dinosaurs To AI",
+        "session": "name4",
+        "date": "23-05-2022T12:45",
+        "filename": ""
+    },
+    {
+        "id": "dd542bc8-2ae7-4b42-b1fe-95131b5147d6",
+        "title": "A Strategy For Pest Detection And Disease Identification On Tomato Plant Using Powered AI",
+        "session": "name4",
+        "date": "23-05-2022T13:30",
+        "filename": ""
+    },
+    {
+        "id": "9a31761e-6970-479e-9660-ba6e8fd7709e",
+        "title": "Effects Of Carbohydrates As Ergogenic Aid In Sport",
+        "session": "name5",
+        "date": "23-05-2022T13:50",
+        "filename": ""
+    },
+    {
+        "id": "b469fb07-00d8-4ffc-9445-762b278d1fa9",
+        "title": "Advantages Of DNA Damage: AID, SHM, CSR",
+        "session": "name6",
+        "date": "24-05-2022T8:30",
+        "filename": ""
+    },
+    {
+        "id": "738d9006-3635-4634-ab88-ae464ce744c6",
+        "title": "Sign Language To Text And Voice Translator Using Convolutional Neural Network And Kinect Sensor",
+        "session": "name6",
+        "date": "24-05-2022T9:00",
+        "filename": ""
+    },
+    {
+        "id": "d41b52c6-e197-442b-9f19-9412bbb531ee",
+        "title": "American Sign Language Translator Using Convolutional Neural Networks",
+        "session": "name7",
+        "date": "24-05-2022T9:30",
+        "filename": ""
+    },
+    {
+        "id": "09369f73-3752-4435-9319-f2ac6d5c61ea",
+        "title": "Identifying Salt Segmentation Using Deep Convolutional Neural Network",
+        "session": "name8",
+        "date": "24-05-2022T10:30",
+        "filename": ""
+    },
+    {
+        "id": "7f1942f1-71a4-4248-b830-be1a6402eb3b",
+        "title": "The Impact of AI in Accounting Field",
+        "session": "name8",
+        "date": "24-05-2022T10:45",
+        "filename": ""
+    },
+    {
+        "id": "13f80fa8-75d3-481a-8d41-0d193593d537",
+        "title": "My Interest And My Aim In Mechanical Engineering",
+        "session": "name8",
+        "date": "24-05-2022T11:10",
+        "filename": ""
+    },
+    {
+        "id": "6fb0ebde-458b-4aeb-8c1c-4b920c681306",
+        "title": "A Strategy For Pest Detection Identification On Tomato Plant Using Powered AI",
+        "session": "name9",
+        "date": "24-05-2022T11:30",
+        "filename": ""
+    },
+    {
+        "id": "860f4f4b-add0-4d42-9100-7f3400939e45",
+        "title": "Artificial Intelligence: Students’ English Learning Abilities",
+        "session": "name9",
+        "date": "24-05-2022T12:30",
+        "filename": ""
+    },
+    {
+        "id": "23e16d7d-4900-468d-b34c-4a69581545bc",
+        "title": "American Sign Language Translator Using Convolutional Neural Networks",
+        "session": "name10",
+        "date": "25-05-2022T9:30",
+        "filename": ""
+    },
+    {
+        "id": "dbcc4c68-307b-4d3a-a6ba-30268fd3d137",
+        "title": "The Impact of AI in Accounting Field",
+        "session": "name11",
+        "date": "25-05-2022T11:45",
+        "filename": ""
+    },
+    {
+        "id": "34ed742b-24a3-4641-84c6-3636d7c13c7b",
+        "title": "Advantages Of DNA Damage: AID, SHM, CSR",
+        "session": "name11",
+        "date": "25-05-2022T12:00",
+        "filename": ""
+    },
+    {
+        "id": "c8fc82d0-921c-40e3-8157-4be44df46f0a",
+        "title": "Artificial Intelligence Approach In Second Language Learning: Students’ English Learning Abilities",
+        "session": "name11",
+        "date": "25-05-2022T12:30",
+        "filename": ""
+    },
+    {
+        "id": "15224f9c-7da1-455e-bc98-0d63d12d62cb",
+        "title": "To What Extent Does Genetics Affect Intelligence, Compared To Environmental Factors?",
+        "session": "name12",
+        "date": "25-05-2022T12:40",
+        "filename": ""
+    },
+    {
+        "id": "feb0802c-a878-4d58-8109-340b57fb3b21",
+        "title": "Regression Models To Predict Air Pollution",
+        "session": "name13",
+        "date": "25-05-2022T13:00",
+        "filename": ""
+    },
+    {
+        "id": "a4b455cc-2230-49f5-9a9d-dd352556271f",
+        "title": "My Interest And My Aim In Mechanical Engineering",
+        "session": "name14",
+        "date": "25-05-2022T13:30",
+        "filename": ""
+    },
+    {
+        "id": "27580b36-df96-4205-a4b8-c04144ae40b1",
+        "title": "A Strategy Detection And Disease Identification On Tomato Plant Using Powered AI",
+        "session": "name14",
+        "date": "25-05-2022T14:00",
+        "filename": ""
+    },
+    {
+        "id": "abbd77bd-d7b7-4353-8d56-e63db3c9074a",
+        "title": "Identifying Salt Segmentation Using Deep Convolutional Neural Network",
+        "session": "name15",
+        "date": "25-05-2022T14:30",
+        "filename": ""
+    },
+    {
+        "id": "ef916d66-f78d-4636-a406-1f0c80505fec",
+        "title": "American Sign Language Translator Using Convolutional Neural Networks",
+        "session": "name16",
+        "date": "26-05-2022T8:30",
+        "filename": ""
+    },
+    {
+        "id": "a9743a96-185e-4f67-a323-588a6b06c97e",
+        "title": "The Impact of AI in Accounting Field",
+        "session": "name16",
+        "date": "26-05-2022T8:45",
+        "filename": ""
+    },
+    {
+        "id": "bfa0bed6-386a-4b11-b641-cbff46ad5fe5",
+        "title": "Advantages Of DNA Damage: AID, SHM, CSR",
+        "session": "name17",
+        "date": "26-05-2022T10:10",
+        "filename": ""
+    },
+    {
+        "id": "be928ed2-c4d0-4f3c-b4bd-638213cf67fc",
+        "title": "Regression Models To Predict Air Pollution",
+        "session": "name17",
+        "date": "26-05-2022T10:30",
+        "filename": ""
+    },
+    {
+        "id": "a481e3f7-c4e3-45d9-9a1d-66ad177f6079",
+        "title": "Artificial Intelligence Approach In Second Language Learning: Students’ English Learning Abilities",
+        "session": "name18",
+        "date": "26-05-2022T11:30",
+        "filename": ""
+    },
+    {
+        "id": "f50cdc7c-8fdd-4923-973a-1911997e9746",
+        "title": "Plant Disease Detection Using Deep Learning And Convolutional Neural Network",
+        "session": "name19",
+        "date": "26-05-2022T12:00",
+        "filename": ""
+    },
+    {
+        "id": "35c42259-15c1-4484-a05e-36b1e0eba7fe",
+        "title": "Sign Language Recognition Using Optimized Convolutional Neural Networks",
+        "session": "name20",
+        "date": "27-05-2022T8:00",
+        "filename": ""
+    },
+    {
+        "id": "00e9aefa-390b-40d0-84dc-c7f1cb97de83",
+        "title": "Classification And Detection Of Plant Disease Using Artificial Neural Network",
+        "session": "name21",
+        "date": "27-05-2022T8:45",
+        "filename": ""
+    },
+    {
+        "id": "53941869-c12f-4007-bc91-500e29479c71",
+        "title": "Does Bilingualism Affect Intelligence?",
+        "session": "name21",
+        "date": "27-05-2022T9:00",
+        "filename": ""
+    },
+    {
+        "id": "572f3384-e22b-43e0-a121-0cee652412c1",
+        "title": "Advantages Of DNA Damage: AID, SHM, CSR",
+        "session": "name21",
+        "date": "27-05-2022T9:15",
+        "filename": ""
+    },
+    {
+        "id": "5d0697dc-039f-4f79-8730-f8365e6e125b",
+        "title": "Plant Disease Detection Using Deep Learning And Convolutional Neural Network",
+        "session": "name22",
+        "date": "27-05-2022T10:30",
+        "filename": ""
+    },
+    {
+        "id": "5b5870c0-b65e-4452-8838-f54234567e35",
+        "title": "My Interest And My Aim In Mechanical Engineering",
+        "session": "name23",
+        "date": "27-05-2022T11:30",
+        "filename": ""
+    },
+    {
+        "id": "5487e3ae-1afe-480b-86ca-c28031283156",
+        "title": "American Sign Language Translator Using Convolutional Neural Networks",
+        "session": "name23",
+        "date": "27-05-2022T12:00",
+        "filename": ""
+    },
+    {
+        "id": "ef2545c8-9111-4d28-9aed-2ffa85bdffc0",
+        "title": "The Impact of AI in Accounting Field",
+        "session": "name24",
+        "date": "27-05-2022T12:30",
+        "filename": ""
+    },
+    {
+        "id": "b0d000a7-cba6-4e1e-a75c-4c5b6582303b",
+        "title": "Identifying Salt Segmentation Using Deep Convolutional Neural Network",
+        "session": "name25",
+        "date": "27-05-2022T13:30",
+        "filename": ""
+    },
+    {
+        "id": "62868e61-8aeb-4684-8417-dc6123e5a9d8",
+        "title": "Classification And Detection Of Plant Disease Using Artificial Neural Network",
+        "session": "name25",
+        "date": "27-05-2022T713:50",
+        "filename": ""
+    }
+]
